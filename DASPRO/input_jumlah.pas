@@ -14,4 +14,3 @@ clrscr;
         writeln('Hasil penjumlahan : ', c);
 
 end.
-// PERTEMUAN 1 //
